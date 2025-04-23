@@ -1,8 +1,8 @@
 package Ejercicios_1_Listas;
 
 public class Contacto {
-	String nombre;
-    String telefono;
+    private String nombre;
+    private String telefono;
 
     public Contacto(String nombre, String telefono) {
         this.nombre = nombre;
